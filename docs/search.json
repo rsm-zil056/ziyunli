@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "My First Project\n\n\n\n\n\n\nZiyun Li\n\n\nApr 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project1/index.html",
+    "href": "projects/project1/index.html",
+    "title": "My First Project",
+    "section": "",
+    "text": "This is my first project post!\n\n\nHere is some text about my analysis."
+  },
+  {
+    "objectID": "projects/project1/index.html#analysis",
+    "href": "projects/project1/index.html#analysis",
+    "title": "My First Project",
+    "section": "",
+    "text": "Here is some text about my analysis."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ziyun Li",
+    "section": "",
+    "text": "Welcome to my website!"
+  }
+]

@@ -1,0 +1,13 @@
+---
+title: "Ziyun Li"
+image: "files/profile_pic.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:zil056@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ziyunli1
+---
+
+Welcome to my website!
