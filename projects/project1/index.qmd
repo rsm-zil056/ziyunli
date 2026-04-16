@@ -3,6 +3,7 @@ title: A/B Testing a Call to Action
 subtitle: "Simulating Key Ideas from Classical Frequentist Statistics"
 author: "Ziyun Li"
 date: Apr 15 2026
+image: "cover.png"
 ---
 
 
