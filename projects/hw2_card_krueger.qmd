@@ -393,7 +393,6 @@ ax2.annotate('85% of NJ stores\nat exactly $5.05\nafter increase',
 plt.tight_layout(pad=2)
 plt.savefig('card_krueger_figure.png', dpi=150, bbox_inches='tight')
 plt.show()
-print("Figure saved.")
 ```
 
 **Left panel:** The bars show average FTE employment in wave 1 (blue) and wave 2 (orange). In Pennsylvania (the control group), employment fell by about 2.1 FTE—reflecting the general economic downturn of 1992. In New Jersey, employment actually rose slightly. The DiD estimate of **+2.75 FTE** (purple annotation) nets out the common recessionary trend, isolating the minimum wage effect.
