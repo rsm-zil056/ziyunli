@@ -16,5 +16,8 @@
   },
   "projects.qmd": {
     "projects.html": "b9252376"
+  },
+  "projects/hw2_card_krueger.qmd": {
+    "hw2_card_krueger.html": "7505cb2f"
   }
 }

@@ -3,6 +3,7 @@
     "listing": "/projects.html",
     "items": [
       "/projects/project1/index.html",
+      "/projects/hw2_card_krueger.html",
       "/projects/project2/index.html"
     ]
   }
