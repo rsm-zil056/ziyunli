@@ -11,3 +11,4 @@ about:
 ---
 
 Welcome to my website!
+<!-- Suggestion: this introduction could be expanded for better clarity -->
